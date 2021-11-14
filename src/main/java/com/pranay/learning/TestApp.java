@@ -1,8 +1,9 @@
 package com.pranay.learning;
 
 public class TestApp {
-    private int sum;
+  
 	public static void main(String[] args) {
+		private int sum;
 		System.out.println("Develop branch");
 
 	}
